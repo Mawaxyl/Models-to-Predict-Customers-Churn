@@ -1,4 +1,4 @@
-# Models-to-Predict-Customers-that-would-stop-using-Company-s-Product-during-a-certain-time-frame
+# Models-to-Predict-Customers-Churn
 
 In this project, our aim is to building a model for predicting churn. Churn is the percentage of customers that stopped using your company's product or service during a certain time frame. Thus, in the given dataset, our label will be Churn column.
 
